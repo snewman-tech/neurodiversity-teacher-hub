@@ -1,29 +1,26 @@
-# Neurodiversity Teacher Hub
+# Neurodiversity Teacher Hub — Version 3
 
-A multi-page static website for teachers supporting ADHD, autistic and AuDHD learners.
+A static GitHub Pages website for teachers supporting ADHD, autistic and AuDHD learners.
 
-## Pages
-- Home
-- ADHD
-- Autism
-- AuDHD
-- Girls & Masking
-- Classroom Strategies
-- Teacher Toolkit
-- Resources
-- NZ Support
-- Training
+## What changed in V3
+- Problem-based “I need help with…” page
+- Redesigned homepage
+- ADHD, autism and AuDHD classroom guides
+- Masking & missed presentations page
+- Universal classroom strategies
+- Teacher toolkit
+- 6 print-ready teacher sheets
+- Searchable/filterable resource library
+- Aotearoa NZ support pathway
+- Ready-to-run staff PLD activities
+- Mobile-friendly navigation
 
-## Publish on GitHub Pages
-1. Create a repository named `neurodiversity-teacher-hub`.
-2. Upload everything in this folder.
-3. Go to Settings → Pages.
-4. Select **Deploy from a branch**.
-5. Select `main` and `/(root)`.
-6. Save.
+## Publish
+Upload the contents of this folder to the root of your GitHub repository. Keep the `assets` and `printables` folders intact.
 
-The site will usually be:
-`https://YOUR-USERNAME.github.io/neurodiversity-teacher-hub/`
+GitHub Pages should use:
+- Branch: `main`
+- Folder: `/(root)`
 
-## Privacy
-Do not publish student names, diagnoses, learning plans, behaviour records, or other private information on a public GitHub Pages site.
+## Important privacy note
+GitHub Pages on a public repository is public. Do not publish student names, diagnoses, learning plans, incident records or any other private student data.
